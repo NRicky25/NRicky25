@@ -33,7 +33,7 @@ ricky = {
     "company":    "Millionyse",
     "focus":      ["FastAPI", "Machine Learning", "Modern Web"],
     "building":   "IniDeck",
-    "timezone":   "Flexible — UTC+8 to UTC+11",
+    "timezone":   "Australia (AEST — UTC+10)",
     "portfolio":  "https://ricky-portfolioo.netlify.app/",
     "motto":      "Always eager to learn and grow 🚀"
 }
