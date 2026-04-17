@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NRicky25/NRicky25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+I'm+Ricky+%F0%9F%91%8B;Full-Stack+Engineer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+- Currently working on **IniDeck**
+- Learning **[tech]**
+- Ask me about **[topic]**
+- Portfolio: https://ricky-portfolioo.netlify.app/
+
+---
+
+### Tech stack
+<div align="center">
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
+
+---
+
+### GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NRicky25&show_icons=true&theme=github_dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRicky25&layout=compact&theme=github_dark" height="165">
+</div>
