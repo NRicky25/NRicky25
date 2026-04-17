@@ -1,6 +1,6 @@
 <!-- Header wave -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Ricky%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20ML&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Ricky%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20&descAlignY=58&descSize=18)
 
 <!-- Typing SVG -->
 <div align="center">
