@@ -1,6 +1,6 @@
 <!-- Header wave -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Ricky%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20ML&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Ricky%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18)
 
 <!-- Typing SVG -->
 <div align="center">
@@ -47,7 +47,6 @@ ricky = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
@@ -67,7 +66,6 @@ ricky = {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
@@ -76,7 +74,7 @@ ricky = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NRicky25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRicky25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170">
+
 </div>
 
 <div align="center">
