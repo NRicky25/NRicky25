@@ -29,7 +29,7 @@
 
 ```python
 ricky = {
-    "role":       "Full-Stack Engineer & Backend Developer",
+    "role":       "Full-Stack Engineer",
     "company":    "Millionyse",
     "focus":      ["FastAPI", "Machine Learning", "Modern Web"],
     "building":   "IniDeck",
